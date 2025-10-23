@@ -1,4 +1,13 @@
-## Hi there 👋
+
+Senior Full-Stack Developer with deep experience building scalable React/React/Native/Angular enterprise systems, now focused on GenAI innovation. Proven track record in full-stack development (React, Node, Java, Python), monorepo architecture, and rapid prototyping. Currently expanding expertise in AI/LLM application development through hands-on projects and formal training.
+
+**AI Developer Bootcamp (6 months, Newline)** – covered Python, statistics, prompt engineering, RAG systems, transformer architectures, multimodal apps, fine tuning, model evaluation and agentic AI:
+
+- RAG pipeline using Python, Ollama, and Pinecone for document ingestion, embedding, and retrieval and metric calculation.
+- Dating Compatibility Embedding - Contrastive Embedding Model with Synthetic Data & Quantized LoRA.
+- Synthetic Data QA for DIY/Repair – Built chat with Vercel AI Toolkit, ShadCN UI, FastAPI, OpenAI, Pydantic, and “LLM-as-Judge” evaluation.
+- Tennis Captain Automation – workflows with Zapier AI agents, integrating Gmail, WhatsApp, Google Sheets, image/PDF parsing, league websites, and Playwright MCP. Processed medical receipts with Gemini API, Hugging Face, and Pydantic in Colab.
+
 
 <!--
 **ipassynk/ipassynk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
