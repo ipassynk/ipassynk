@@ -3,10 +3,11 @@ Senior Full-Stack Developer with deep experience building scalable React/React/N
 
 **AI Developer Bootcamp (6 months, Newline)** – covered Python, statistics, prompt engineering, RAG systems, transformer architectures, multimodal apps, fine tuning, model evaluation and agentic AI:
 
-- RAG pipeline using Python, Ollama, and Pinecone for document ingestion, embedding, and retrieval and metric calculation.
-- Dating Compatibility Embedding - Contrastive Embedding Model with Synthetic Data & Quantized LoRA.
-- Synthetic Data QA for DIY/Repair – Built chat with Vercel AI Toolkit, ShadCN UI, FastAPI, OpenAI, Pydantic, and “LLM-as-Judge” evaluation.
+- Built RAG pipeline using Python, Ollama, and Pinecone for document ingestion, embedding, and retrieval and metric calculation.
+- Dating Compatibility Embedding - build and evaluate a domain-specific embedding model fine-tuned using contrastive loss on synthetic data with sklearn, SentenceTransformers.
+- Synthetic Data QA for DIY/Repair – built chat with Vercel AI Toolkit, ShadCN UI, FastAPI, OpenAI, Pydantic, and “LLM-as-Judge” evaluation.
 - Tennis Captain Automation – workflows with Zapier AI agents, integrating Gmail, WhatsApp, Google Sheets, image/PDF parsing, league websites, and Playwright MCP. Processed medical receipts with Gemini API, Hugging Face, and Pydantic in Colab.
+
 
 
 <!--
