@@ -9,6 +9,7 @@ Senior Full-Stack Developer with deep experience building scalable React/React/N
 - Built “LLM-as-Judge” evaluation using synthetic Data QA for DIY/Repair. created chat with Vercel AI Toolkit, ShadCN UI, FastAPI, OpenAI, Pydantic.
 - Multi-Agent Gen AI system for a tennis team league, using CrewAI, Langchain Gmail and GCP.
 - Processed medical receipts with Zapier AI agents, integrating Gmail, WhatsApp, Google Sheets, image/PDF parsing.
+- A multi-agent CrewAI system that learns your communication style, retrieves accurate info from PDFs, evaluates responses for style and grounding, and books meetings if confidence is low.
 
 
 
