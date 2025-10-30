@@ -5,7 +5,7 @@ Senior Full-Stack Developer with deep experience building scalable React/React/N
 
 Currently expanding expertise in AI/LLM application development through hands-on projects and formal training in AI Developer Bootcamp (6 months, Newline) covered Python, statistics, prompt engineering, RAG systems, transformer architectures, multimodal apps, fine tuning, model evaluation and agentic AI.  See projects at  github.com/ipassynk
 
-- Working on the final project - An AI-driven grocery intelligence system that parses store flyers using fine-tuned LLMs to extract food deals, normalize product sizes and prices, and enable natural-language queries like “Which store has the cheapest eggs this week on sale?” through an interactive chat interface. Used LlamaIndex, Pinecone, AWS SageMaker, AWS DynamoDB, AWS S3
+- Building an AI-driven Contract Agent for a fireproofing and spray foam company using LangGraph and LlamaParse (LlamaIndex) to detect and parse new project contracts, enable chatting with Streamlit, and automate pre-production task management with Python and FastAPI on AWS.
 - RAG pipeline using Python, Ollama, and Vector DB Pinecone for ingestion, embedding, and retrieval and metric calculation.
 - Dating Compatibility Embedding - fine tune domain-specific model  using contrastive loss on synthetic data with scikit-learn, SentenceTransformers, PyTorch.
 - LLM-as-Judge for evaluationing Data QA for DIY/Repair. AI chat with Vercel AI Toolkit, ShadCN UI, FastAPI, OpenAI, Pydantic.
