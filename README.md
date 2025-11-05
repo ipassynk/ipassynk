@@ -1,7 +1,7 @@
 
 Senior Full-Stack Developer with deep experience building scalable React/React/Native/Angular enterprise systems, now focused on GenAI innovation. Proven track record in full-stack development (React, Node, Java, Python), monorepo architecture, and rapid prototyping. Currently expanding expertise in AI/LLM application development through hands-on projects and formal training.
 
-**AI Developer Bootcamp (6 months, Newline)** – covered Python, statistics, prompt engineering, RAG systems, transformer architectures, multimodal apps, fine tuning, model evaluation and agentic AI:
+**AI Developer Bootcamp 6 months, [Newline](https://[https://newline.notion.site/AI-bootcamp-1-cohort-curriculum-1303f12eb0228088a11dc779897d15bd)** – covered Python, statistics, prompt engineering, RAG systems, transformer architectures, multimodal apps, fine tuning, model evaluation and agentic AI:
 
 Currently expanding expertise in AI/LLM application development through hands-on projects and formal training in AI Developer Bootcamp (6 months, Newline) covered Python, statistics, prompt engineering, RAG systems, transformer architectures, multimodal apps, fine tuning, model evaluation and agentic AI.  See projects at  github.com/ipassynk
 
