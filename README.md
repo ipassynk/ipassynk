@@ -10,7 +10,7 @@ Currently expanding expertise in AI/LLM application development through hands-on
 - Dating Compatibility Embedding - fine tune domain-specific model  using contrastive loss on synthetic data with scikit-learn, SentenceTransformers, PyTorch.
 - LLM-as-Judge for evaluationing Data QA for DIY/Repair. AI chat with Vercel AI Toolkit, ShadCN UI, FastAPI, OpenAI, Pydantic.
 - Multi-agent CrewAI for automating tennis league match organization using custom and LangChain Gmail tools, and GCP.
-- Multi-agent CrewAI that learns your communication style, retrieves info from PDFs, evaluates responses for style and grounding, and books meetings if confidence is low.
+- Multi-agent LangChain agent that learns your communication style, retrieves info from documents, evaluates responses for style and grounding, and books meetings if confidence is low.
 - Medical receipts processing with Zapier AI agents, integrating Gmail, WhatsApp, Google Sheets, image/PDF parsing.
 - Build job trucking tool using RAG with Ollama, LangChain, ChromaDB, FastAPI, and Streamlit.
 - Coach booking system handling a large number of concurrent curls via Nginx, and  built with  Python, Shell, and  Telegram bot.
