@@ -14,10 +14,7 @@ Currently expanding expertise in AI/LLM application development through hands-on
 - Medical receipts processing with Zapier AI agents, integrating Gmail, WhatsApp, Google Sheets, image/PDF parsing.
 - Build job trucking tool using RAG with Ollama, LangChain, ChromaDB, FastAPI, and Streamlit.
 - Coach system handling a large number of concurrent curls via Nginx, and  built with  Python, Shell, and  Telegram bot.
-
-
-
-
+- Recipe Keeper A smart recipe management and search application powered by RAG. It uses a hybrid search approach combining structured graph data with Neo4j and vector embeddings with Weaviate to allow users to find recipes by ingredients, nutritional info, or even by image similarity.
 
 <!--
 **ipassynk/ipassynk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
