@@ -7,12 +7,12 @@ Currently expanding expertise in AI/LLM application development through hands-on
 
 - Building an AI-driven Contract Agent for a fireproofing and spray foam company using LangGraph and LlamaParse (LlamaIndex) to detect and parse new project contracts, enable chatting with Streamlit, and automate pre-production task management with Python and FastAPI on AWS.
 - RAG pipeline using Python, Ollama, and Vector DB Pinecone for ingestion, embedding, and retrieval and metric calculation.
-- Dating Compatibility Embedding - fine tune domain-specific model  using contrastive loss on synthetic data with scikit-learn, SentenceTransformers, PyTorch.
-- LLM-as-Judge for evaluationing Data QA for DIY/Repair. AI chat with Vercel AI Toolkit, ShadCN UI, FastAPI, OpenAI, Pydantic.
+- [Dating Compatibility Embedding](https://github.com/ipassynk/digital-clone-agent) - fine tune domain-specific model  using contrastive loss on synthetic data with scikit-learn, SentenceTransformers, PyTorch.
+- [LLM-as-Judge for evaluationing Data QA for DIY/Repair](https://github.com/ipassynk/repair-diy-ai). AI chat with Vercel AI Toolkit, ShadCN UI, FastAPI, OpenAI, Pydantic.
 - Multi-agent CrewAI for automating tennis league match organization using custom and LangChain Gmail tools, and GCP.
-- Multi-agent LangGraph agent that learns your communication style, retrieves info from documents, evaluates responses for style and grounding, and books meetings if confidence is low.
+- [digital-clone-agent] (https://github.com/ipassynk/digital-clone-agent) Multi-agent LangGraph agent that learns your communication style, retrieves info from documents, evaluates responses for style and grounding, and books meetings if confidence is low.
 - Medical receipts processing with Zapier AI agents, integrating Gmail, WhatsApp, Google Sheets, image/PDF parsing.
-- Job trucking tool using RAG with Ollama, LangChain, ChromaDB, FastAPI, and Streamlit.
+- [job-trucker-ai](https://github.com/ipassynk/job-trucker-ai) Job trucking tool using RAG with Ollama, LangChain, ChromaDB, FastAPI, and Streamlit.
 - Coach system handling a large number of concurrent curls via Nginx, and  built with  Python, Shell, and  Telegram bot.
 - [Recipe Keeper](https://github.com/ipassynk/recipe_keeper) A smart recipe management and search application powered by RAG. It uses a hybrid search approach combining structured graph data with Neo4j and vector embeddings with Weaviate to allow users to find recipes by ingredients, nutritional info, or even by image similarity.
 
