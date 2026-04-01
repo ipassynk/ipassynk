@@ -3,9 +3,9 @@ Senior Full-Stack Developer with deep experience building scalable enterprise sy
 
 Huge fun of enterprise-grade cloud sandboxes for AI agents **[Leap0.dev](https://leap0.dev)**.
 
-Currently expanding expertise in AI/LLM application development through hands-on projects and formal training in **[AI Newline AI Accelerator Program](https://newline.notion.site/AI-bootcamp-1-cohort-curriculum-1303f12eb0228088a11dc779897d15bd)** covered Python, statistics, prompt engineering, RAG systems, transformer architectures, multimodal apps, fine tuning, model evaluation and agentic AI.
+Finished **[AI Newline AI Accelerator Program](https://newline.notion.site/AI-bootcamp-1-cohort-curriculum-1303f12eb0228088a11dc779897d15bd)** covered Python, statistics, prompt engineering, RAG systems, transformer architectures, multimodal apps, fine tuning, model evaluation and agentic AI.
 
-Check some of my AI projects:
+Some of my AI projects:
 
 - [Basic RAG with Eval](https://github.com/ipassynk/rag-full-cycle) RAG pipeline using Python, Ollama, and Vector DB Pinecone for ingestion, embedding, and retrieval and metric calculation.
 - [Dating Compatibility Embedding](https://github.com/ipassynk/digital-clone-agent) - fine tune domain-specific model  using contrastive loss on synthetic data with scikit-learn, SentenceTransformers, PyTorch.
