@@ -3,6 +3,9 @@ Senior Full-Stack Developer with deep experience building scalable enterprise sy
 
 Check out enterprise-grade cloud sandboxes for AI agents at **[Leap0.dev](https://leap0.dev)**. Instead of running model-generated code on trusted infrastructure, teams run it in isolated Firecracker microVM sandboxes with APIs for commands, files, git, terminals, and telemetry. This gives developers real automation power while giving enterprises the controls they need: network boundaries, org-level governance, audit-ready evidence, and predictable operations. The result is a practical path from AI demos to production-grade autonomous workflows, without exposing core systems to untrusted runtime behavior.
 
+<img width="520" height="353" alt="image" src="https://github.com/user-attachments/assets/88ee1bd5-05dd-4b27-8c9b-fd91a8d5bc94" />
+
+
 Finished **[AI Newline AI Accelerator Program](https://newline.notion.site/AI-bootcamp-1-cohort-curriculum-1303f12eb0228088a11dc779897d15bd)** covered Python, statistics, prompt engineering, RAG systems, transformer architectures, multimodal apps, fine tuning, model evaluation and agentic AI.
 
 Some of my AI projects:
