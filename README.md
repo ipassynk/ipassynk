@@ -6,6 +6,7 @@ Check out enterprise-grade cloud sandboxes for AI agents at **[Leap0.dev](https:
 <img width="520" height="353" alt="image" src="https://github.com/user-attachments/assets/88ee1bd5-05dd-4b27-8c9b-fd91a8d5bc94" />
 
 
+
 Finished **[AI Newline AI Accelerator Program](https://newline.notion.site/AI-bootcamp-1-cohort-curriculum-1303f12eb0228088a11dc779897d15bd)** covered Python, statistics, prompt engineering, RAG systems, transformer architectures, multimodal apps, fine tuning, model evaluation and agentic AI.
 
 Some of my AI projects:
